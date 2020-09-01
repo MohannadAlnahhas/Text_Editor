@@ -1,6 +1,6 @@
 # Text_Editor
 
-This is a simple text editor programmed by java.
+This is a simple text editor programmed by java. <br>
 I programmed this editor as required from one of the assignments my instructor gave to us in a course called "Data structures and algorithms" in 28/03/2020.
 
 The program has a class called "ProgramTest", which takes an input .txt file name.
