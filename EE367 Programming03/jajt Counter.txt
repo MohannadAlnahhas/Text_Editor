@@ -1,3 +1,0 @@
-Word: hello Frequency: 1
-Word: everybody Frequency: 1
-Total words is 2
