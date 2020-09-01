@@ -10,7 +10,8 @@ Else if there is not given .txt file name, it will also create a new file where 
 
 The commands that the program can do: <br>
 1- Appending new lines after the last line. <br>
-2- Deleting lines. 3- Editing characters ( a cursor will appear to replace, delete, or add a new character in the current line). <br>
+2- Deleting lines. <br>
+3- Editing characters ( a cursor will appear to replace, delete, or add a new character in the current line). <br>
 4- Jumping to a given line number. <br>
 5- Searching for a given word. <br>
 6- Printing commands list ( what and how to use the commands). <br>
